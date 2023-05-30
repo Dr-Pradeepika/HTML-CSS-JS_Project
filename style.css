@@ -78,7 +78,6 @@
     display: flex;
     justify-content: center;
     list-style-type: none;
-    gap: 0px;
     padding: 0;
     gap: 20px;
   }
